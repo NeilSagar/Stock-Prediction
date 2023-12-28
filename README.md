@@ -1,0 +1,4 @@
+- Predicting stock’s next day high price.
+- Used Web-scraping on news-site for the stock to analyse sentiment.
+- Created model based on LSTM to predict price.
+- Achieved MSE on testing : 279 unit sq .  on 1887 days of data.
